@@ -10,3 +10,4 @@ Happy Birthday Java!
 
 おうちでケーキなどを用意してさして使ってね！    
 
+![small-flag-image](https://github.com/jjug-ccc/community/blob/master/design/java25th/img/flag-image.jpg)
